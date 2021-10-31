@@ -7,5 +7,5 @@ print("b = " + str(b))
 
 greetings = "greetings"
 print("greetings = " + str(greetings))
-greetings = ???
+greetings = 5
 print("greetings = " + str(greetings))
