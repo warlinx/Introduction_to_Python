@@ -6,5 +6,5 @@ three = 3
 # comparisons are performed at the same time.
 print(one < two < three)
 
-is_greater = three ??? two
+is_greater = three > two
 print(is_greater)

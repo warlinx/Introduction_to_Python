@@ -1,8 +1,8 @@
 number = 9.0        # Float number
 
-result = ???
+result = number/2
 
-remainder = ???
+remainder = number%2
 
 print("result = " + str(result))
 print("remainder = " + str(remainder))
