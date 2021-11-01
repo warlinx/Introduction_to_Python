@@ -7,7 +7,7 @@ files:
     length: 15
     placeholder_text: ???
     initial_state:
-      length: 3
+      length: 15
       offset: 47
     initialized_from_dependency: false
     selected: true
