@@ -4,4 +4,4 @@ print("tomato" in grocery_list)    # Check that grocery_list contains "tomato" i
 
 grocery_dict = {"fish": 1, "tomato": 6, "apples": 3}   # create new dictionary
 
-print(???)
+print("fish" in grocery_dict.keys())

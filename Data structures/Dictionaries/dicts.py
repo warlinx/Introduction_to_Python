@@ -10,4 +10,4 @@ print(phone_book)
 # Remove a key-value pair from phone_book.
 del phone_book["John"]
 
-print(???)
+print(phone_book["Jane"])
