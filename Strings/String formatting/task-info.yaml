@@ -3,7 +3,7 @@ files:
 - name: string_formatting.py
   visible: true
   placeholders:
-  - offset: 129
+  - offset: 128
     length: 1
     placeholder_text: ???
     initial_state:
@@ -13,8 +13,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: pFKTpgDBiCqxfvG+cg8GMw==
-  - offset: 144
-    length: 2
+  - offset: 143
+    length: 3
     placeholder_text: ???
     initial_state:
       length: 3
@@ -32,5 +32,5 @@ files:
 status: Failed
 feedback:
   message: Use %d special symbol
-  time: Wed, 10 Nov 2021 15:20:30 UTC
+  time: Sun, 21 Nov 2021 03:01:11 UTC
 record: -1
